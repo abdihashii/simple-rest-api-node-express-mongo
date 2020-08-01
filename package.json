@@ -1,0 +1,19 @@
+{
+  "name": "how-to-build-rest-api-node-express-mongo",
+  "version": "1.0.0",
+  "description": "Learning how to build a RESTful API  using Node, Express, and MondoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Abdirahman Haji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
